@@ -1,6 +1,8 @@
 [submodule "fox-auth-client"]
 	path = fox-auth-client
 	url = https://github.com/PedroGaP/fox-auth-client
+	branch = main
 [submodule "fox-auth-server"]
 	path = fox-auth-server
 	url = https://github.com/PedroGaP/fox-auth-server
+	branch = main
